@@ -5,7 +5,7 @@
 - 📫 How to reach me   
 -             Instagram : @vikram_valiant
 -             EMail : vikramkaki05@gmail.com
--             Linkedin : linkedin.com/in/vikram-kaki-121b8b23b
+-             Linkedin : linkedin.com/in/vikram-kaki-a6745b21a
 
 <!---
 Vikram-kaki/Vikram-kaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
