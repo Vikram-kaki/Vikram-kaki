@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Java , Python and Web devlopment
 - 💞️ I’m looking to collaborate on any of the above
 - 📫 How to reach me   
--                     Instagram : @vikram_valiant
+-             Instagram : @vikram_valiant
+-             EMail : vikramkaki05@gmail.com
+-             Linkedin : linkedin.com/in/vikram-kaki-121b8b23b
 
 <!---
 Vikram-kaki/Vikram-kaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
